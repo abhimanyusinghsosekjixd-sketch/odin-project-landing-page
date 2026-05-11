@@ -120,7 +120,7 @@ a {
 }
 
 .items p {
-    text-align: justify;
+    text-align: center;
     font-size: 18px;
 }
 
@@ -165,8 +165,8 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 50px;
-    padding-top: 50px;
+    padding-bottom: 60px;
+    padding-top: 60px;
 }
 
 .signup-box {
@@ -213,5 +213,5 @@ a {
     align-items: center;
     color: #F9FAF8;
     font-size: 18px;
-    padding: 30px;
+    padding: 15px;
 }
